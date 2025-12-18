@@ -1,11 +1,11 @@
 # PKNU-ONLINE
 
-[![PKNU-ONLINE 소개 영상](http://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://youtu.be/jtM6PulHKyw)
+[![PKNU-ONLINE 소개 영상](logo.png)](https://youtu.be/jtM6PulHKyw)
 > 👆 이미지를 클릭하면 유튜브 소개 영상으로 이동합니다.
 
 <br>
 
-![메인 타이틀 화면](pknu_online_main.png)
+![메인 타이틀 화면](image.png)
 ## 🎮 프로젝트 소개
 **PKNU-ONLINE**은 생성형 AI와 절차적 생성(PCG) 알고리즘을 활용하여 **디지털 트윈 콘텐츠 생성의 자동화 파이프라인**을 구축하고, 이를 통해 부경대학교 캠퍼스를 가상 공간에 완벽하게 재현한 프로젝트입니다.
 
