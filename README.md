@@ -51,11 +51,11 @@ GIS 데이터로 정확한 화이트박스 모델을 확보하고, 현장 사진
 
 | 영역 | 담당 |
 | :--- | :--- |
-| GIS 기반 LoD1 매스 모델 구축 | 박민성 |
-| 생성형 AI 텍스처 · 3D 모델 에셋 제작 | 박민성 |
+| GIS 기반 화이트박스 모델 구축 | 박민성 |
+| 생성형 AI 텍스처 제작 | 박민성 |
 | `TaxutreMaker` — 사진 기반 PBR 텍스처 생성 툴 개발 | 박민성 |
 | UE5 환경 구축 (PCG · Nanite · Lumen) | 박민성 |
-| AI 기반 3D 모델 생성 툴 개발 | 배도영 |
+| AI 기반 3D 모델 생성 | 배도영 |
 | 멀티플레이 네트워크 환경 구현 | 배도영 |
 
 <br>
@@ -67,7 +67,7 @@ GIS 데이터로 정확한 화이트박스 모델을 확보하고, 현장 사진
 | Engine | Unreal Engine 5 | PCG 프레임워크, Nanite, Lumen |
 | Language | JavaScript (ES6), HTML5 Canvas | `TaxutreMaker` 텍스처 생성 툴 구현 |
 | Web 3D | Three.js (r128) | 실시간 PBR 재질 프리뷰 |
-| Data Source | V-World GIS | 건물 도면(LoD0) 및 건물 높이 DB |
+| Data Source | V-World GIS | 건물 도면 및 건물 높이 DB |
 | AI Tools | Nano Banana, Hunyuan3D | 현장 사진 기반 텍스처 · 3D 모델 생성 |
 
 <br>
