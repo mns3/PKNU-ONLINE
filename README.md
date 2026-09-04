@@ -130,17 +130,7 @@ V-World에서 취득한 **건물 도면 데이터** 과 **건물 높이 DB** 를
 <br>
 
 
-## 🚀 TaxutreMaker 실행
 
-별도 빌드 과정이 없습니다.
-
-```bash
-git clone https://github.com/mns3/PKNU-ONLINE.git
-cd PKNU-ONLINE
-# TaxutreMaker.html 을 브라우저로 열면 바로 실행됩니다
-```
-
-<br>
 
 ## 👥 팀 구성
 
