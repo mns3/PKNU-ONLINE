@@ -136,7 +136,7 @@ V-World에서 취득한 **건물 도면 데이터** 과 **건물 높이 DB** 를
 
 | 이름 | 포지션 | 담당 업무 |
 | :---: | :--- | :--- |
-| **박민성** | Lead Developer | GIS 기반 LoD1 모델 구축, `TaxutreMaker` 개발, AI 활용 에셋 · 3D 모델 · 텍스처 제작, UE5 환경 구축 |
+| **박민성** | Lead Developer | GIS 기반 모델 구축, `TaxutreMaker` 개발, AI 활용 에셋 · 3D 모델 · 텍스처 제작, UE5 환경 구축 |
 | **배도영** | Backend Developer | AI 기반 3D 모델 생성, 멀티플레이 환경 구현 |
 
 <br>
