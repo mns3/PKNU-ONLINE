@@ -19,7 +19,7 @@
 ![스크린샷1](image.png)
 ![스크린샷2](image2.png)
 ![스크린샷3](image3.png)
-![스크린샷0](image4.png)
+![스크린샷0](image4.jpg)
 
 <br>
 
