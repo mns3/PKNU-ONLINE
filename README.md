@@ -90,7 +90,7 @@ V-World에서 취득한 **건물 도면 데이터** 과 **건물 높이 DB** 를
 
 ### 3. TaxutreMaker — 사진 1장에서 PBR 텍스처 5종을 생성하는 웹 툴
 
-텍스처 맵 변환 작업을 자동화하기 위해 직접 만든 도구입니다. 저장소의 [`TaxutreMaker.html`](TaxutreMaker.html) 파일 하나로 동작하며, 설치 없이 브라우저에서 실행됩니다.
+텍스처 맵 변환 작업을 자동화하기 위해 바이브코딩을 통해 만든 도구입니다. 저장소의 [`TaxutreMaker.html`](TaxutreMaker.html) 파일 하나로 동작하며, 설치 없이 브라우저에서 실행됩니다.
 
 ![TaxutreMaker 실행 화면](test1.png)
 
